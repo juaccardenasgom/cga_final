@@ -1,0 +1,38 @@
+{
+  "data": {
+      "tornillos": [
+          {
+              "name": "Tonillo 1",
+              "value": 2,
+              "unit": "mm",
+              "comment": "Ejemplo de tornillo 1"
+          },
+          {
+              "name": "Tonillo 2",
+              "value": 5,
+              "unit": "mm",
+              "comment": "Ejemplo de tornillo 2"
+          },
+          {
+              "name": "Tonillo 3",
+              "value": 10,
+              "unit": "mm",
+              "comment": "Ejemplo de tornillo 3"
+          }
+      ],
+      "engranajes": [
+        {
+            "name": "Engranaje 1",
+            "value": 29,
+            "unit": "cm",
+            "comment": "Ejemplo de engranaje 1"
+        },
+        {
+            "name": "Engranaje 2",
+            "value": 50,
+            "unit": "cm",
+            "comment": "Ejemplo de engranaje 2"
+        }
+    ]
+  }
+}
